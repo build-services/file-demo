@@ -1,0 +1,11 @@
+{
+  "name": "file-demo",
+  "version": "1.0.0",
+  "build": {
+    "team": "marc",
+    "version": "1.0.1"
+  },
+  "dependencies": {
+    "jimp": "^0.2.28"
+  }
+}
